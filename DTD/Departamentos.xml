@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE Departamentos SYSTEM "Departamentos.dtd">
-
-<Departamentos>
-    <Departamento>comercial</Departamento>
-    <Departamento>compatibilitat</Departamento>
-    <Departamento>informatica</Departamento>
-    <Departamento>personal</Departamento>
-</Departamentos>
