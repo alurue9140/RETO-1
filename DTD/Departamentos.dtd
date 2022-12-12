@@ -1,0 +1,2 @@
+<!ELEMENT Departamentos (Departamento+)>
+<!ELEMENT Departamento (#PCDATA)>
