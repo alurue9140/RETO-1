@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
-<Departamentos xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="Departamentos.xsd">
-    <Departamento>comercial</Departamento>
-    <Departamento>compatibilitat</Departamento>
-    <Departamento>informatica</Departamento>
-    <Departamento>personal</Departamento>
-</Departamentos>
