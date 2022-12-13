@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GruposCotizacion xmlns:xs="http://www.w3.org/2001/XMLSchema"
+xs:noNamespaceSchemaLocation="GruposCotizacion.xsd">
+    <Grupo>
+        <Numero>1</Numero>
+        <Nombre>Ingenieros, licenciados y personal de alta dirección.</Nombre>
+        <Formacion>Estudios Universitarios y Doctorado</Formacion>
+        <SalarioBase>2500</SalarioBase>
+    </Grupo>
+    <Grupo>
+        <Numero>2</Numero>
+        <Nombre>Ingenieros técnicos, Peritos y Ayudantes titulados.</Nombre>
+        <Formacion>Estudios Universitarios y Máster</Formacion>
+        <SalarioBase>2100</SalarioBase>
+    </Grupo>
+    <Grupo>
+        <Numero>3</Numero>
+        <Nombre>Jefes Administrativos y de Taller.</Nombre>
+        <Formacion>Estudios Universitarios o Grado Superior</Formacion>
+        <SalarioBase>1700</SalarioBase>
+    </Grupo>
+    <Grupo>
+        <Numero>4</Numero>
+        <Nombre>Ayudantes sin titulación.</Nombre>
+        <Formacion>Estudios Universitarios o de Grado</Formacion>
+        <SalarioBase>1400</SalarioBase>
+    </Grupo>
+    <Grupo>
+        <Numero>5</Numero>
+        <Nombre>Oficiales administrativos.</Nombre>
+        <Formacion>Estudios de Grado Medio o Superior</Formacion>
+        <SalarioBase>1100</SalarioBase>
+    </Grupo>
+</GruposCotizacion>
