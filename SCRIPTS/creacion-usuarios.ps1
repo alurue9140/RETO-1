@@ -10,8 +10,7 @@ function creartodo
     $file_users=Import-Csv -Path C:\Users\irueda\Desktop\SCRIPTS\CONTRASEÑAS\usuarios.csv 
     foreach ($user in $file_users) { 
         $clave=ConvertTo-SecureString $user.password -AsPlainText -Force
-        New-LocalUser -Name $user.cuenta -Description $user.descripcion -Password $clave
-        Set-LocalUser -Name $user.cuenta -FullName $user.nombre -
+        New-LocalUser -Name $user.cuenta -Description $user.descripcion -Password $clave -FullName $user.nombre
         net user $user.cuenta /logonpasswordchg:yes
         #Añadimos la cuenta de usuario en el grupo de Usuarios del sistema
         Add-LocalGroupMember -Group $user.grupo -Member $user.cuenta
