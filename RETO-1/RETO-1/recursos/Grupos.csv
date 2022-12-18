@@ -1,0 +1,8 @@
+cod_g;Nombre;Formacion;SalarioBase
+1;Ingenieros, licenciados y personal de alta direccion.;Estudios Universitarios y Doctorado;2500.0
+2;Ingenieros tecnicos, Peritos y Ayudantes titulados.;Estudios Universitarios y Master;2100.0
+3;Jefes Administrativos y de Taller.;Estudios Universitarios o Grado Superior;1700.0
+4;Ayudantes sin titulacion.;Estudios Universitarios o de Grado;1400.0
+5;Oficiales administrativos.;Estudios de Grado Medio o Superior;1100.0
+6;Subalternos;Estudios de Grado Medio;1100.0
+7;Auxiliares Administrativos;Estudios de Grado Medio;1100.0
