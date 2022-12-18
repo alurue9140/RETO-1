@@ -1,6 +1,0 @@
-<!ELEMENT GruposCotizacion (Grupo+)>
-    <!ELEMENT Grupo (Numero, Nombre, Formacion+, SalarioBase)>
-        <!ELEMENT Numero (#PCDATA)>
-        <!ELEMENT Nombre (#PCDATA)>
-        <!ELEMENT Formacion (#PCDATA)>
-        <!ELEMENT SalarioBase (#PCDATA)>

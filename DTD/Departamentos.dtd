@@ -1,4 +1,0 @@
-<!ELEMENT Departamentos (Departamento+)>
-<!ELEMENT Departamento (nombre,codi)>
-<!ELEMENT nombre (#PCDATA)>
-<!ELEMENT codi (#PCDATA)>
